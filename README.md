@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 ### Howdy 👋
 
 My name is Connor and I’m a full stack developer living in Sydney, Australia.
+<br/>
+<br/>
+<br/>
+⚡️&nbsp;&nbsp;I’m currently working at Kablamo. \
+📊&nbsp;&nbsp;Previously at Trueanthem and nCino. \
+🔧&nbsp;&nbsp;I work on highly scalable cloud based backends written in Go, but I love diving into every level of the stack. \
+📚 &nbsp;&nbsp;Currently learning Solidity and Machine Learning.
 
-
-⚡️  I’m currently working at Kablamo.
-📊  Previously at Trueanthem and nCino.
-🔧  I work on highly scalable cloud based backends written in Go, but I love diving into every level of the stack.
-📚   Currently learning Solidity and Machine Learning.
-
-Website ~ LinkedIn ~ Contact
+<div align="center">
+  <a href="https://connorvanderhook.com">Website</a> ~ 
+  <a href="https://www.linkedin.com/in/connorvhook/">LinkedIn</a> ~ 
+  <a href="mailto:connorvhook@gmail.com">Contact</a>
+</div>
