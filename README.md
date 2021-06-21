@@ -23,7 +23,9 @@ My name is Connor and I’m a full stack developer living in Sydney, Australia.
 ⚡️&nbsp;&nbsp;I’m currently working at Kablamo. \
 📊&nbsp;&nbsp;Previously at Trueanthem and nCino. \
 🔧&nbsp;&nbsp;I work on highly scalable cloud based backends written in Go, but I love diving into every level of the stack. \
-📚 &nbsp;&nbsp;Currently learning Solidity and Machine Learning.
+👯 &nbsp;&nbsp;I’m keen to collaborate on open source projects written in go. \
+💬 &nbsp;&nbsp;Ask me about bushwalking and surfing.
+📚 &nbsp;&nbsp;Currently sharpening my DevOps fu.
 
 <div align="center">
   <a href="https://connorvanderhook.com">Website</a> ~ 
