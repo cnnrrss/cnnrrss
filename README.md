@@ -23,7 +23,7 @@ My name is Connor and I’m a software engineer living in Sydney, Australia.
 ⚡️&nbsp;&nbsp;I’m currently working at Kablamo. \
 📊&nbsp;&nbsp;Previously at Trueanthem and nCino. \
 ☁️&nbsp;&nbsp;I work on cloud native systems written in Go. \
-👓&nbsp;&nbsp;Primary focus is backend but I enjoy diving into every level of the stack. \
+👓&nbsp;&nbsp;My primary focus is developing backend systems, but I enjoy every level of the tech stack. \
 👯 &nbsp;&nbsp;I’m keen to collaborate on open source projects written in Go. \
 💬 &nbsp;&nbsp;Ask me about bushwalking and surfing. \
 
