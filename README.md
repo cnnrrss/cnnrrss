@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 
 ### Howdy 👋
 
-My name is Connor and I’m a full stack developer living in Sydney, Australia.
+My name is Connor and I’m a software engineer living in Sydney, Australia.
 <br/>
 <br/>
 <br/>
 ⚡️&nbsp;&nbsp;I’m currently working at Kablamo. \
 📊&nbsp;&nbsp;Previously at Trueanthem and nCino. \
-🔧&nbsp;&nbsp;I work on highly scalable cloud based backends written in Go, but I love diving into every level of the stack. \
-👯 &nbsp;&nbsp;I’m keen to collaborate on open source projects written in go. \
+☁️&nbsp;&nbsp;I work on cloud native systems written in Go.
+👓&nbsp;&nbsp;Primary focus is backend but I enjoy diving into every level of the stack. \
+👯 &nbsp;&nbsp;I’m keen to collaborate on open source projects written in Go. \
 💬 &nbsp;&nbsp;Ask me about bushwalking and surfing. \
-📚 &nbsp;&nbsp;Currently sharpening my DevOps fu.
 
 <div align="center">
   <a href="https://connorvanderhook.com">Website</a> ~ 
-  <a href="https://www.linkedin.com/in/connorvhook/">LinkedIn</a> ~ 
+  <a href="https://www.linkedin.com/in/cnnrrss/">LinkedIn</a> ~ 
   <a href="mailto:connorvhook@gmail.com">Contact</a>
 </div>
