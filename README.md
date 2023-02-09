@@ -25,7 +25,7 @@ My name is Connor and I’m a software engineer living in Sydney, Australia.
 ☁️&nbsp;&nbsp;I work on cloud native systems written in Go. \
 👓&nbsp;&nbsp;My primary focus is developing backend systems, but I enjoy every level of the tech stack. \
 👯 &nbsp;&nbsp;I’m keen to collaborate on open source projects written in Go. \
-💬 &nbsp;&nbsp;Ask me about bushwalking and surfing. \
+💬 &nbsp;&nbsp;Ask me about bushwalking and surfing.
 
 <div align="center">
   <a href="https://connorvanderhook.com">Website</a> ~ 
