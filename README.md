@@ -21,8 +21,7 @@ My name is Connor and I’m a software engineer living in NYC.
 <br/>
 <br/>
 ⚡️&nbsp;&nbsp;I’m currently available on a Freelance basis via Top K Labs. \
-📊&nbsp;&nbsp;Previously at Kablamo, Trueanthem, and nCino. \
-
+📊&nbsp;&nbsp;Previously at Kablamo, Trueanthem, and nCino.
 <div align="center">
   <a href="https://topklabs.com">Top K Labs</a> ~ 
   <a href="https://connorvanderhook.com">Website</a> ~ 
